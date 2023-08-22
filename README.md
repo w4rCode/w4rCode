@@ -14,8 +14,7 @@
 
 </div>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=w4rCode&show_icons=true&theme=dracula&count_private=true)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4rCode&layout=compact&langs_count=7&theme=dark"/>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=w4rCode&show_icons=true&theme=dracula&count_private=true)<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4rCode&layout=compact&langs_count=7&theme=dark"/>
 
 ## Tecnologias que eu uso no meu dia
 
