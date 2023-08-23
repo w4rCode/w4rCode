@@ -10,7 +10,7 @@
 - 🎓 Tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 - 🚀 Neste momento, estou imersa nos estudos de HTML, CSS e Javascript, explorando as bases que constroem a web moderna.
 - ✨ Possuo habilidades em design de interface e experiência do usuário (UI/UX).
-- 
+
  </div>
 
 
