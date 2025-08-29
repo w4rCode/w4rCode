@@ -2,9 +2,6 @@
 <div> 
 <h1>Oi,  eu sou a Ana  👻 </h1>
     
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/warcodee/)
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-gabriely/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/warcodee/)
 
 
 - 🎓 Tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas.
